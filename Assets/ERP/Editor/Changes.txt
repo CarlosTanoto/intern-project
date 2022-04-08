@@ -1,0 +1,12 @@
+26/03/2022
+============================================
+- Development Begins
+
+
+--------------------------------------------
+27/03/2022
+============================================
+- Textures resolution reduced from 2k to 1k
+- Textures quality reduced from Normal to Low
+- Spot Light intensity set from 10 to 50
+- 
